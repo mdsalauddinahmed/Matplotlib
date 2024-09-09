@@ -17,6 +17,10 @@
  - Box plot
  - Pie plot
  - Fill Between plot
- - 
+
+## Installation
+```bash
+   pip install matplotlib
+```
 
  
